@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Hello1");
         System.out.println("Added one file");
         System.out.println("added new file");
+        Student student= new Student();
+        student.sayHello();
     }
 }
